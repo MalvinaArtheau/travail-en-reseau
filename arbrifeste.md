@@ -40,3 +40,16 @@ CC-BY-SA Stéphane Langlois et Scopyleft
 
 MANDALA HOLISTIQUE
 
+
+## Variante :
+
+J'ai utilisé cette méthode pour aider les participant·e·s à visualiser l'agenda de leur projet. Dans ce contexte :
+i. Racines pour représenter les fondations sur lesquelles le projet était construit (institutions, partenaires existants, pratiques professionnelles, contexte etc.) 
+ii.	Tronc  démarrage du projetTrunk represent the project starting points
+iii.	Branches : workpackages
+iv.	Feuilles : les tâches à réaliser
+
+Plutôt que de commencer par dessiner un arbre, j'ai demandé aux participant·e·s de partir des feuilles et des racines en rédigeant tous les éléments sur des post-its, pour ensuite les disposer sur une feuille de paper-board en gardant l'image de l'arbre en tête. 
+Au résultat, nous avons obtenus (avec deux groupes travaillant sur deux projets différents) deux arbres complètements différents : un buisson et un sapin. Ces deux structures étaient très représentatives des façons de travailler envisagées par les deux équipes, et nous avons pu également discuter ce point.
+C'est pourquoi j'ai trouvé intéressant de ne pas dessiner l'arbre à priori, mais de laisser sa forme émerger au fur et à mesure de l'avancement de la discussion entre les participant·e·s.
+
